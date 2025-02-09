@@ -1,0 +1,190 @@
+.subscribe-button {
+    background-color: rgb(201, 0, 0);
+    color: white;
+    border: none;
+    height: 35px;
+    width: 105px;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: opacity 0.15s;
+    vertical-align: top;
+
+    
+}
+
+.subscribe-button:hover {
+    opacity: 0.8;
+
+}
+.subscribe-button:active {
+    opacity: 0.4;
+}
+
+.join-button {
+    background-color: white;
+    border-color: rgb(10, 10, 196);
+    border-style: solid;
+    border-width: 1px;
+    color: rgb(10, 10, 196);
+    height: 36px;
+    width: 60px;
+    border-radius: 2px;
+    transition: background-color 1s, color 1s;
+    vertical-align: top;
+    
+
+    
+}
+.join-button:hover {
+    background-color: rgb(10, 10, 196);
+    color: white;
+
+}
+.join-button:active {
+    opacity: 0.7;
+}
+
+.tweet-button {
+    background-color: rgb(2, 158, 255);
+    color: white;
+    border-radius: 18px;
+    width: 74px;
+    height: 36px;
+    cursor: pointer;
+    border: none;
+    font-weight: bold;
+    font-size: 15px;
+    margin-left: 8px;
+    transition: box-shadow 0.5s, color 1.5s;
+    vertical-align: top;
+        
+    
+
+}
+.tweet-button:hover {
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
+
+
+}
+
+.request-button {
+    background-color: black;
+    color: white;
+    width: 150px;
+    height: 55px;
+    cursor: pointer;
+    border: none;
+    font-size: 15px;
+
+}
+.request-button:hover {
+    background-color: black;
+    color: white;
+    opacity: 0.8;
+}
+.add-button {
+    background-color: rgb(255, 216, 20);
+    color: black;
+    width: 250px;
+    height: 55px;
+    cursor: pointer;
+    border: none;
+    font-size: 20px;
+    border-radius: 18px;
+    font-weight: bold;
+    margin-left: 8px;
+}
+.sign-button {
+    background-color: rgb(46, 164, 79);
+    color: white;
+    width: 150px;
+    height: 55px;
+    cursor: pointer;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin: 8px;
+
+}
+.get-button {
+    background-color: rgb(121  , 82, 176);
+    color: white;
+    width: 180px;
+    height: 55px;
+    cursor: pointer;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 4px;
+
+
+}
+.download-button {
+    background-color: white;
+    border-color: rgb(108, 117, 125);
+    color: rgb(108, 117, 125);
+    width: 180px;
+    height: 55px;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 4px;
+}
+.nike-text {
+    color: black;
+    font-weight: bold;
+    font-size: 55px;
+}
+.amazon-text {
+    color: rgb(0, 113, 133);
+    font-size: 20px;
+}
+.stock-text {
+    color: rgb(0, 118, 0);
+    font-weight: bold;
+    font-size: 40px;
+}
+.free-text {
+    color: black;
+    font-size: 40px;
+}
+.buy-button {
+    background-color: rgb(255, 164, 28);
+    color: black;
+    width: 250px;
+    height: 55px;
+    cursor: pointer;
+    border: none;
+    font-size: 20px;
+    border-radius: 18px;
+    font-weight: bold;
+    margin-left: 8px;
+
+}
+.back-button {
+    background-color: white;
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.next-button {
+    background-color: white;
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+
+
+
+
